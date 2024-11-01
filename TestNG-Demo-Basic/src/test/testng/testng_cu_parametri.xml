@@ -1,0 +1,11 @@
+<suite name="OddNumberGenerator Suite" verbose="1">
+    <parameter name="generatorActive" value="true"/>
+    <parameter name="minValue" value="1234"/>
+    <parameter name="maxValue" value="5320"/>
+
+    <test name="OddNumberGenerator Tests">
+        <classes>
+            <class name="com.testng.example.OddNumberGeneratorTest_Parameters"/>
+        </classes>
+    </test>
+</suite>

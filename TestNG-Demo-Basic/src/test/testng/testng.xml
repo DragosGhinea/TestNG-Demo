@@ -1,0 +1,9 @@
+<suite name="OddNumberGenerator Suite" verbose="1">
+    <test name="OddNumberGenerator Tests">
+        <classes>
+            <class name="com.testng.example.OddNumberGeneratorTest_AdnotariSimple"/>
+            <class name="com.testng.example.OddNumberGeneratorTest_AtributePeAdnotari"/>
+            <class name="com.testng.example.OddNumberGeneratorTest_AtributeSpecifice"/>
+        </classes>
+    </test>
+</suite>
