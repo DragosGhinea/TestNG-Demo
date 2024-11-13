@@ -2,8 +2,7 @@ Link catre prezentare: https://docs.google.com/presentation/d/1NeEpGqlB30EmpotVW
 
 
 Membri:
-Ghinea Dragoș-Dumitru
-Amza Ciprian
+Ghinea Dragoș-Dumitru, Amza Ciprian
 
 Profesor:
 Ipate Florentin
