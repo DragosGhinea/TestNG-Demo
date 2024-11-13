@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite de Testare E-Commerce">
+    <test name="Test de API E-Commerce">
+        <parameter name="urlApi" value="https://emga-sau-ceva-similar.com" />
+        <parameter name="userType" value="membru" />
+        <classes>
+            <class name="ExtrasTests" />
+        </classes>
+    </test>
+</suite>
